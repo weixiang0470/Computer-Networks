@@ -1,0 +1,1 @@
+**Everthing in this notes is done by myself, but I also use come example from Introduction to Networking(6th edition) and from class's content of [柯志亨 副教授 (Associate Professor Chih-Heng Ke)](http://csie.nqu.edu.tw/smallko/)**
